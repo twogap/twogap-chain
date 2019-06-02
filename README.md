@@ -1,4 +1,4 @@
-# Twogap Chain - Build from Cosmos SDK
+# Twogap Cross-Exchanges Infrastructure Chain - Build from Cosmos SDK
 
 **WARNING**: The SDK has mostly stabilized, but we are still making some
 breaking changes.
